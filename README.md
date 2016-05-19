@@ -1,0 +1,1 @@
+# displaying-has-many-through-rails-seiji-test-batch-001
